@@ -1,5 +1,17 @@
 
-W	java:S125"<This block of commented-out lines of code should be removed.(©´º%8Ÿ¶èÍ/
-u
-java:S14884"_Immediately return this expression instead of assigning it to the temporary variable "pessoas".(÷€¹œ
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(öûíß8Ÿ¶èÍ/
+W
+java:S1854":Remove this useless assignment to local variable "falcao".(ßûİš8ˆŠĞ†/
+c
+java:S1192"FDefine a constant instead of duplicating this literal "carne" 3 times.(Œş’Ô8ÌĞÏ†/
+D
+java:S1444"'Make this "public static a" field final(ú²¶ƒ8¦£°ƒ…/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÑÏ–8©—ı†/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÿ™ĞÃüÿÿÿÿ8Õ‡“†/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(àìˆÅ8Ô³Ì†/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(‹ÉüŸ8Õ‡“†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀŒıİøÿÿÿÿ8¯şğ†/
+j
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(ú²¶ƒ8¦£°ƒ…/
+H
+java:S1481"+Remove this unused "falcao" local variable.(ßûİš8ˆŠĞ†/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(’•øì8îƒµ†/
